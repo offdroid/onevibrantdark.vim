@@ -36,7 +36,7 @@ const specialColors = Object.freeze({
 	visual_grey: { gui: '#2F3239', cterm: '237', cterm16: '15' },
 	menu_grey: { cterm16: '8' }, // vim theme handles gui/cterm values
 	special_grey: { gui: '#3B4048', cterm: '238', cterm16: '15' },
-	vertsplit: { gui: '#181A1F', cterm: '59', cterm16: '15' },
+	vertsplit: { gui: '#575a62', cterm: '59', cterm16: '15' },
 })
 
 const colors = Object.assign({}, baseColors, vibrantBaseColors, specialColors)
